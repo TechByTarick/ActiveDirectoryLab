@@ -2,18 +2,19 @@
 
 
 <h2>Description</h2>
-This project demonstrates the use of PowerShell to automate the creation and configuration of a new Active Directory environment. The script installs Active Directory Domain Services, promotes the server to a domain controller, and builds a structured organizational hierarchy with organizational units for different departments and roles.
+This project demonstrates how to create and configure an Active Directory lab environment using VirtualBox. It guides you through installing Windows Server, promoting it to a Domain Controller, and setting up a new domain. You’ll learn how to manage users, groups, and organizational units within the Active Directory structure.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
